@@ -1,12 +1,12 @@
-#Equation Solver
+# Equation Solver
 
 This is a small tool that will solve a system of equations with three variables
 
-##Getting Started
+##  Getting Started
 
 These instructions will get you started on how to use the tool
 
-###Installation Instructions
+### Installation Instructions
 
 1. Clone this project using git bash or download the zip file and extract it to a location of your choosing
 1. Navigate to the 'Install' folder 
@@ -14,7 +14,7 @@ These instructions will get you started on how to use the tool
 1. When the setup is complete, navigate to the 'Sample" folder and copy the file 'input.txt' into the location where the    tool was installed.
 
 
-##Runninng the tool
+## Runninng the tool
 
 Currently the tool is configured to solve a system of equations of three variables only. Flexibility in the number of equations that the tool can solve simulataneously is currently under development.
 
@@ -27,7 +27,7 @@ To solve a system of equations with three variables, follow the following steps:
 1. Run the executable 'EquationSolver.exe' 
 1. When the cmd closes, open the file 'output.txt' to see the reuslts
 
-##Future Features
+## Future Features
 
 * Flexible number of variables in the system of equations
 * Flexible input methods for equations
