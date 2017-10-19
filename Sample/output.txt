@@ -1,0 +1,4 @@
+Results
+Variable x : -1.66667
+Variable y : 2.33333
+Variable z : -1

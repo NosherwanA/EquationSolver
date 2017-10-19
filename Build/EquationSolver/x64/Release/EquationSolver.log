@@ -1,0 +1,41 @@
+﻿  ReadFile.cpp
+..\..\src\Input\ReadFile.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\..\src\Input\ReadFile.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\..\src\Input\ReadFile.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\..\src\Input\ReadFile.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PrintFile.cpp
+..\..\src\Output\PrintFile.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\..\src\Output\PrintFile.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\..\src\Output\PrintFile.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\..\src\Output\PrintFile.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  EquationParser.cpp
+..\..\src\Parsing\EquationParser.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ahmedno\documents\equationsolver\src\parsing\EquationParser_H.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\..\src\Parsing\EquationParser.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ahmedno\documents\equationsolver\src\parsing\EquationParser_Helper_H.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\..\src\Parsing\EquationParser.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\..\src\Parsing\EquationParser.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\..\src\Parsing\EquationParser.cpp(121): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\src\Parsing\EquationParser.cpp(122): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EquationParser_Helper.cpp
+..\..\src\Parsing\EquationParser_Helper.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ahmedno\documents\equationsolver\src\parsing\EquationParser_Helper_H.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\..\src\Parsing\EquationParser_Helper.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\..\src\Parsing\EquationParser_Helper.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\..\src\Parsing\EquationParser_Helper.cpp(20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\src\Parsing\EquationParser_Helper.cpp(35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\src\Parsing\EquationParser_Helper.cpp(40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\src\Parsing\EquationParser_Helper.cpp(41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\..\src\Parsing\EquationParser_Helper.cpp(47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EquationSolver.cpp
+..\..\src\Solver\EquationSolver.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+..\..\src\Solver\EquationSolver.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  EquationSolver_Helper.cpp
+..\..\src\Solver\EquationSolver_Helper.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+c:\users\ahmedno\documents\equationsolver\src\parsing\equationparser_helper.cpp(122): warning C4715: 'getCoefficient': not all control paths return a value
+  249 of 255 functions (97.6%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  EquationSolver.vcxproj -> C:\Users\ahmedno\Documents\EquationSolver\Build\x64\Release\EquationSolver.exe
